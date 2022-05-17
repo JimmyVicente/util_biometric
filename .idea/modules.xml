@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/util_biometric.iml" filepath="$PROJECT_DIR$/util_biometric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/util_biometric_android.iml" filepath="$PROJECT_DIR$/android/util_biometric_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/util_biometric_example_android.iml" filepath="$PROJECT_DIR$/example/android/util_biometric_example_android.iml" />
+    </modules>
+  </component>
+</project>
